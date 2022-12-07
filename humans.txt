@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ankita Pattanaik ankitapattanaik92@gmail.com
 
 # THANKS
 
