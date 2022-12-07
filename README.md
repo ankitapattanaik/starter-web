@@ -14,4 +14,4 @@ this is a simple web project.Deplyment can be on any web server.
 Please fork this repository and then issue pull requests
 
 ###Copyright
-2022 Git.
+2022 Git.All rights reserved
